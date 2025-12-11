@@ -6,7 +6,7 @@ export default function App() {
 
   return (
     <div style={{ padding: 20 }}>
-      <h1>Live Code Sandbox</h1>
+      <h1>Live Code Sandbox 2.0 676767</h1>
       <RoomSelector userId={userId} />
     </div>
   );

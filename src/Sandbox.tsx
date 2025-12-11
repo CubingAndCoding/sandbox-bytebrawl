@@ -50,6 +50,7 @@ export default function Sandbox({ roomId, userId }: SandboxProps) {
     language: string;
     output: string;
   };
+  
   // Subscribe to Realtime updates
   useEffect(() => {
     const channel = supabase
